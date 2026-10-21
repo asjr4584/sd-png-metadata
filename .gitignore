@@ -24,3 +24,11 @@ data/cache
 dist
 dist-*
 src/MtgPure/Model/Object/ToObjectN/Instances.hs
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.class
+
+# Packaged distribution archives
+*.zip
